@@ -1,0 +1,16 @@
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\PersonelApp.DataAccessLayer.dll.config
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\PersonelApp.DataAccessLayer.dll
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\PersonelApp.DataAccessLayer.pdb
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\PersonelApp.Domains.dll
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\obj\Debug\PersonelApp.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\obj\Debug\PersonelApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\obj\Debug\PersonelApp.DataAccessLayer.csproj.CopyComplete
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\obj\Debug\PersonelApp.DataAccessLayer.dll
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\obj\Debug\PersonelApp.DataAccessLayer.pdb
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\obj\Debug\PersonelApp.DataAccessLayer.Migrations.Init.resources
+C:\Users\beyza\source\repos\PersonelApp.DataAccessLayer\obj\Debug\PersonelApp.DataAccessLayer.csproj.GenerateResource.cache

@@ -1,0 +1,17 @@
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csprojAssemblyReference.cache
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.exe.config
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.exe
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.pdb
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\EntityFramework.dll
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.DataAccessLayer.dll
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.Domains.dll
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.DataAccessLayer.pdb
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\PersonelApp.DataAccessLayer.dll.config
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\EntityFramework.xml
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csproj.CopyComplete
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.exe
+C:\Users\beyza\source\repos\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.pdb

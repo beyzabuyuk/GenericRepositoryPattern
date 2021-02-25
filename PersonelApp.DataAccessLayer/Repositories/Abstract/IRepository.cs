@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PersonelApp.DataAccessLayer.Repositories.Abstract
+{
+    public interface IRepository<TEntity> where TEntity : class
+    {
+        //tüm entity'ler için ortak
+
+        //Ben bunu tanımladım ama geriye ne dondurecegim? Departman mı personel mi bilemiyorum
+        //O yuzden generic hale getiriyorum
+        //Yani sana hangi tip gelmisse geriye o tipi dondurcek
+       TEntity GetById(int id);
+       IEnumerable<TEntity> GetAll();
+       void Add(TEntity entity);
+       void AddRange(IEnumerable<TEntity> entities);
+       void Remove(int id);
+       void RemoveRange(IEnumerable<TEntity> entities);
+    }
+}

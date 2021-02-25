@@ -1,0 +1,6 @@
+C:\Users\beyza\source\PersonelApp.Domains\bin\Debug\PersonelApp.Domains.dll
+C:\Users\beyza\source\PersonelApp.Domains\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\beyza\source\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.csprojAssemblyReference.cache
+C:\Users\beyza\source\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.dll
+C:\Users\beyza\source\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.pdb
